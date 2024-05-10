@@ -1,0 +1,6 @@
+requests
+pydantic
+uvicorn
+fastapi
+python-multipart
+ddtrace
